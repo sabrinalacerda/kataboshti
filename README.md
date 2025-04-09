@@ -27,7 +27,7 @@ Kataboshti is a physics-based game filled with strange challenges that reward cr
 
 ## 🎮 Made for Ludum Dare 57
 
-- Theme: _"Summoning"_  
+- Theme: _"Depth"_  
 - Time limit: 72 hours  
 - Created from scratch during the jam
 
@@ -40,14 +40,11 @@ Watch the full gameplay here:
 
 ## 📸 Screenshots
 
-_Add some gameplay images in the `screenshots/` folder of your project and display them like this:_
+(screenshots/screenshot2.png)  
 
-```markdown
-![Start Area](screenshots/level1.png)  
-*Rolling up the first ball of filth*
 
-![Smash Dash](screenshots/dash.png)  
-*Dashing through a wall with full grime power*
+(screenshots/screenshot1.png)  
+
 ```
 
 ---
@@ -63,6 +60,5 @@ _Add some gameplay images in the `screenshots/` folder of your project and displ
 ## 🚧 Status
 
 This game was created during a game jam and is still in development.  
-Expect updates, improvements, and probably even more dirt.
 
 ---
